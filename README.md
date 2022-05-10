@@ -37,4 +37,4 @@ switch(name, {
 })
 ```
 
-<img src="./.img/switch.jpg" alt="Switch Statement Picture" width=550/> 
+<img src="./.img/switch.jpg" alt="Switch Statement Picture"/> 
